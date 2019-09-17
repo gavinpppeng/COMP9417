@@ -1,3 +1,14 @@
+# Question
+Topic 3.4: Recommender system using collaborative filtering
+Task description
+Pick one of the the following problems for recommendation and apply collaborative filtering as described in these lecture notes (or an alternative). The data is from a collection collected by the GroupLens research group. Note that there are different versions of this data, with different permissions.
+The suggested problems are either: learning to predict the ratings of books on the BookCrossing dataset, or movie ratings on the MovieLens Data Sets (these are of different sizes, so start with the 100K). However, other options are also available from the GroupLens site.
+If you want to use one of the larger versions of the MovieLens data, there is one at Kaggle.
+Team 2 to 4 person team
+Difficulty 5/5
+
+
+#
 SUMMARY & USAGE LICENSE
 =============================================
 The main.py and evaluation.py should be in the same directory with the dataset.
