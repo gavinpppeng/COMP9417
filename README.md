@@ -1,2 +1,3 @@
 # COMP9417
 Machine learning 19T2
+Machine learning is the algorithmic approach to learning from data. This course covers the key techniques in data mining technology, gives their theoretical background and shows their application. Topics include: decision tree algorithms (such as C4.5), regression and model tree algorithms, neural network learning, rule learning (such as association rules), lazy learning, version spaces, evaluating the performance of machine learning algorithms, Bayesian learning and model selection, algorithm-independent learning, ensemble learning, kernel methods, unsupervised learning (such as clustering) and inductive logic programming (relational learning).
